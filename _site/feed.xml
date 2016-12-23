@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fontman</title>
+    <description>Fontman</description>
+    <link>http://fontman.io/</link>
+    <atom:link href="http://fontman.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 23 Dec 2016 22:17:53 +0530</pubDate>
+    <lastBuildDate>Fri, 23 Dec 2016 22:17:53 +0530</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Most Elegant Font Manager You Will Ever Use</title>
+        <description>&lt;p&gt;Fonts, basically how text arranged is one of the most crucial aspects, which enhances personality, the interest of an art. One can search for fonts all over the internet, it can be commercial or free/libre/open source fonts. So you have to traverse the internet until you find what you like, and have to install them manually. If you are a designer/a writer or a person who has an essence of using different type faces, you might love the idea of a font manager application, which gives you the ability to search a font from a collection, hot install and to use it for your next text line. Despite the idea of developing another typicall font manager, fact that nowadays we can find many font management applications. So then what is the purpose of Fontman?&lt;/p&gt;
+
+&lt;p&gt;The idea was originally initiated and started to make it a reality by &lt;a href=&quot;http://mooniak.com&quot;&gt;Mooniak&lt;/a&gt;, to have one all in one font manager for all font designers, developers and users, targeting libre/open source fonts. Design your font, develop and package it with Fontman for universal typefaces seekers.&lt;/p&gt;
+
+&lt;p&gt;Fontman follows client-server architecture, a server to track all of font and user data, and a beautiful client applcation with its frontend built with Electron as known as Atom shell and backend built with Python. Fontman will be available for all Linux, Mac and Windows platforms.&lt;/p&gt;
+
+&lt;p&gt;Right now Fontman is under massive development, and we hope to bring it into your hands by next February, 2017. If you are more excited, follow the development process in &lt;a href=&quot;https://github.com/fontman&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 23 Dec 2016 00:00:00 +0530</pubDate>
+        <link>http://fontman.io/blog/fontman-intro</link>
+        <guid isPermaLink="true">http://fontman.io/blog/fontman-intro</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

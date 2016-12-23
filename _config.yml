@@ -1,0 +1,16 @@
+# Site settings
+title: Fontman
+description: Fontman
+author: Fontman
+email: youemail@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://fontman.io"
+twitter_username: fontmanapp
+github_username:  fontman
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:home
+sass:
+    style: compressed

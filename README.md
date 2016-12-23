@@ -1,2 +1,5 @@
-# fontman.github.io
-Fontman website
+# Fontman website
+
+##### Getting Started
+`jekyll serve`
+
